@@ -185,8 +185,8 @@
 <url> <loc>https://layer5.io/careers/software-engineer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/careers/software-engineer-internship</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/careers/ui-engineer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/careers/ui-visual-designer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/careers/ui-visual-designer-internship</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/careers/ui-visual-designer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/careers/ux-engineer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/shreyas-mishra</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/aadhitya-amarendiran</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -317,12 +317,12 @@
 <url> <loc>https://layer5.io/community/members/yash-pandey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/yash-vardhan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/community/members/zainuddeen-abdul-muiz</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-eu-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-na-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/learn/service-mesh-workshops/dockercon-eu-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/kubecon-na-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/velocity-london-2018</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://layer5.io/learn/service-mesh-workshops/devfest-montreal-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/oreilly-live-online-training</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://layer5.io/learn/service-mesh-workshops/devfest-montreal-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/all-things-open-2019</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/cloud-native-austin-2020</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://layer5.io/learn/service-mesh-workshops/open-source-101-at-home</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
